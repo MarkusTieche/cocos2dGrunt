@@ -1,0 +1,7 @@
+{
+  "name": "cocos2dBuild",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt-shell": "^1.2.1"
+  }
+}
